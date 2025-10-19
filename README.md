@@ -2,17 +2,17 @@
 
 A simple e-commerce website built with React.js for a class assignment.
 
-🚀 Features
-Home Page
-Product Lists
-Shopping Cart
-Responsive design
-Simple and clean UI
+🚀<b> Features </b> <br>
+Home Page<br>
+Product Lists<br>
+Shopping Cart<br>
+Responsive design<br>
+Simple and clean UI<br>
 
-🛠️ Tech Stack
-React.js
-HTML / CSS
-JavaScript
+🛠️ Tech Stack<br>
+React.js<br>
+HTML / CSS<br>
+JavaScript<br>
 
-📚 Purpose
+📚 Purpose<br>
 This project was created for learning and practice purposes as part of a class assignment.
